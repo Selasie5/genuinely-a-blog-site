@@ -9,10 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@sanity/image-url": "^1.1.0",
+    "@sanity/vision": "^3.67.1",
     "genuinely-a-blog": "file:",
     "next": "15.1.0",
+    "next-sanity": "^9.8.27",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "sanity": "^3.67.1",
+    "styled-components": "^6.1.13"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
